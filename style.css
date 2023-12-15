@@ -1,0 +1,84 @@
+
+.div-1{
+   border: 2px solid black;
+   width: 700px;
+   height: 150px;
+   border-radius: 15px;
+   background-color: rgb(229, 214, 214);
+   margin-left: 300px;
+}
+#peragraf1{
+  color: black;
+  text-align: center;
+  font-size: 16px;
+}
+
+.btn-1{
+    margin-left: 250px;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(255, 0, 0);
+    color: rgb(253, 253, 253);
+    font-size: 15px;
+
+}
+
+
+    /* ----2nd div----- */
+ 
+.div-2{
+    border: 2px solid black;
+    width: 700px;
+    height: 150px;
+    border-radius: 15px;
+    background-color: rgba(229, 214, 214, 0.156);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+}
+#peragraf2{
+
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+     
+.btn-2{
+    margin-left: 250px;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(60, 255, 0);
+    color: rgb(253, 253, 253);
+    font-size: 15px;
+     
+}    
+
+   /* -----3rd div----- */
+
+
+.div-3{
+    border: 2px solid black;
+    width: 700px;
+    height: 150px;
+    border-radius: 15px;
+    background-color: rgb(108, 103, 103);
+    margin-left: 100px;
+ }
+#peragraf3{
+   color: black;
+   text-align: center;
+   font-size: 16px;
+}
+ 
+.btn-3{
+    margin-left: 250px;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(0, 200, 255);
+    color: rgb(253, 253, 253);
+    font-size: 15px;
+ 
+}
